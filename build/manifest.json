@@ -1,0 +1,11 @@
+{
+  "manifest_version":2,
+  "name":"GRE Vocab",
+  "author":"Andres rios",
+  "version":"1.0.1", 
+  "description":"Replace new tab screen with English Word",
+"chrome_url_overrides":{
+  "newtab":"index.html"
+}
+
+}
